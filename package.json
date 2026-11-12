@@ -1,0 +1,8 @@
+{
+  "name": "rtlplayground-card",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/card.test.mjs"
+  }
+}

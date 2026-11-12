@@ -1,0 +1,6 @@
+{
+  "name": "RTLPlayground Dashboard",
+  "filename": "rtlplayground-card.js",
+  "homeassistant": "2025.4.0",
+  "render_readme": true
+}
