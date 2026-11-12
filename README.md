@@ -1,6 +1,6 @@
 # RTLPlayground Dashboard
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=aalaei&repository=ha-rtlplayground-dashboard)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=aalaei&repository=ha-rtlplayground-dashboard&category=plugin)
 
 A Lovelace card for the RTLPlayground switch. It shows the front panel with six ports,
 port detail, the PoE panel, a traffic chart, night mode and switch info. The PoE data
